@@ -18,5 +18,5 @@
    - um botão de restart game
    - Um ranking
 
-   # não a previsão de adicionar ( são mais ideias pra treino), estou ocupado com os resto dos projetos da trilha
+   # Não a previsão de adicionar ( são mais ideias para treino), estou ocupado com os resto dos projetos da trilha
 
